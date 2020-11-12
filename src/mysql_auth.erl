@@ -1,7 +1,7 @@
 %%% coding: latin-1
 %%%-------------------------------------------------------------------
 %%% File    : mysql_auth.erl
-%%% Author  : Fredrik Thulin <ft@it.su.se>
+%%% Author  : Fredrik  Thulin <ft@it.su.se>
 %%% Descrip.: MySQL client authentication functions.
 %%% Created :  4 Aug 2005 by Fredrik Thulin <ft@it.su.se>
 %%%
